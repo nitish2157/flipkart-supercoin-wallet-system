@@ -93,6 +93,7 @@ setCurrentDay(36)
 cancelOrder("O-105")
 
 viewTransactionHistory()
+
 /* Expected Output:
    [Day 1] CREDIT 50 (O-101) - COMPLETED
    [Day 10] CREDIT 50 (O-102) - COMPLETED
